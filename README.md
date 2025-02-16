@@ -37,7 +37,6 @@ A real-time drowsiness detection application built in Python using a custom-trai
    ```bash
    pip install -r requirements.txt
    ```
-   *(Make sure your `requirements.txt` includes packages like `torch`, `opencv-python`, `customtkinter`, `Pillow`, and `numpy`.)*
 
 4. **Download the Custom YOLOv5 Weights:**  
    Update the path in the code to point to your custom weights file.
